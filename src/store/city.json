@@ -1,0 +1,32 @@
+{
+    "cities": [
+        {
+            "city": "MARSEILLE",
+            "local": "BEJAIA"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "ALGER"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "ORAN"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "SKIKDA"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "ANNABA"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "BEJAIA"
+        },        
+        {
+            "city": "MARSEILLE",
+            "local": "BEJAIA"
+        }
+    ]
+}
